@@ -1,0 +1,10 @@
+In this exercise, we create a simple Employee Management System that performs the following operations:
+
+Add a new employee
+Remove an employee
+Search for an employee
+Display all employees
+
+
+This exercise demonstrates a simple example of managing employee data using Python.
+You can further expand the functionality based on your specific needs.
